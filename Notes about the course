@@ -1,0 +1,6 @@
+# read on otsu threashold ...
+equalization for histogram in low contrast area then make the threashold
+implement the threashold on the three given photos and draw the histogram .
+red on adaptive threasholding ,what is the techn ,
+what type of images are using in it and what it do.
+(upload a scanning photo from a book that has a black area and implement the code on this photo)
